@@ -1,2 +1,2 @@
 tesseract-ocr
-tesseract-ocr-chi_sim
+tesseract-ocr-chi
