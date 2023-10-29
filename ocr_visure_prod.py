@@ -7,6 +7,9 @@ import pandas as pd
 import os
 import datetime
 
+# Set the TESSDATA_PREFIX environment variable
+os.environ['TESSDATA_PREFIX'] = '/Users/mirkofontana/anaconda3/lib/python3.11/site-packages/pytesseract-0.3.10.dist-info/tessdata'
+
 # ...
 
 # Define a function to generate a timestamp
