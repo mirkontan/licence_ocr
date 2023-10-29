@@ -1,4 +1,6 @@
 opencv-contrib-python-headless
+requests==2.25.1
+idna==3.0
 openpyxl==3.1.2
 beautifulsoup4==4.12.2
 googletrans==4.0.0rc1
