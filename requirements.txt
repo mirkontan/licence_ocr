@@ -9,7 +9,7 @@ pandas==2.0.3
 numpy==1.24.3
 Pillow==9.4.0
 pytesseract==0.3.10
-/Users/mirkofontana/Downloads/chi_sim.traineddata
+chi_sim.traineddata
 opencv-python-headless==4.8.1.78
 opencv-python==4.8.1.78
 
